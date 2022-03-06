@@ -1,6 +1,6 @@
 Hi ! 
 <p>
-My name is **Evan Jannot**, I am an engineering student at the *ENSC* in Bordeaux, France. 
+My name is __Evan Jannot__, I am an engineering student at the *ENSC* in Bordeaux, France. 
 My field of study is **cognitive sciences**, which leads me to conduct computer science projects of different types (AI, web programming, object-oriented programming, ...). 
 </p>
 <p>My main programming languages are **C#**, **Python** and **JavaScript**.
