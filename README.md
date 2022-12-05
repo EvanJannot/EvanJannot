@@ -13,7 +13,7 @@ Hi !<br><br>My name is Evan Jannot, I am an engineering student at the ENSC in B
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EvanJannot&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=EvanJannot&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=EvanJannot&theme=radical&no-frame=false&no-bg=false&margin-w=4&langs_count=10)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=EvanJannot&icon=0&color=0)](https://visitcount.itsvg.in)
